@@ -2,8 +2,8 @@ https://public.tableau.com/app/profile/vinutha.bengaluru.prabhudev/viz/Book4_172
 ![image](https://github.com/user-attachments/assets/11c1383e-4b7a-432a-aa26-dd10634593f7)
 PROJECT NAME:
 HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
-ABOUT PROJECT:
-This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
+
+This Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
 ![image](https://github.com/user-attachments/assets/de2e86c2-677c-47bc-a84b-edf2250aab08)
 
 
