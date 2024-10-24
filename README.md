@@ -1,12 +1,12 @@
 https://public.tableau.com/app/profile/vinutha.bengaluru.prabhudev/viz/Book4_17297478014040/HRAnalyticsDashboard?publish=yes
 ![image](https://github.com/user-attachments/assets/11c1383e-4b7a-432a-aa26-dd10634593f7)
-
-![image](https://github.com/user-attachments/assets/de2e86c2-677c-47bc-a84b-edf2250aab08)
-
 PROJECT NAME:
 HR Analytics: A Complete Employee Data Analysis Project using Tableau Dashboard
 ABOUT PROJECT:
 This HR analytics Tableau project is aimed at providing HR managers and business leaders a comprehensive way to analyze and monitor employee data, and make data-driven decisions related to employee retention, development, and recruitment.
+![image](https://github.com/user-attachments/assets/de2e86c2-677c-47bc-a84b-edf2250aab08)
+
+
 
 This includes trendline and target line to help HR managers track progress toward reducing attrition. It has charts showing the distribution of employees and attrition rate by gender, age group, job satisfaction and education field. The chart includes legends and interactive filters to allow HR managers to drill down and explore the data further.
 
